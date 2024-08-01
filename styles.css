@@ -226,7 +226,7 @@ header input[type="search"] {
 
 .ad-container {
     margin: 20px 0;
-    background-color: var(--sky-magenta);
+    background-color: var(--white);
     padding: 20px;
     border-radius: 10px;
     color: var(--white);
