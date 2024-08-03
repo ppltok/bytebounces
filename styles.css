@@ -229,7 +229,7 @@ header input[type="search"]::placeholder {
 }
 
 .ad-container {
-  margin: 20px 0;
+  margin: 10px 0;
   background-color: var(--light);
   padding: 20px;
   border-radius: 10px;
